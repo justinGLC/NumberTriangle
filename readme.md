@@ -20,7 +20,6 @@ what you are tasked with for this task.
   - Create an issue for this in your repo, write your code on a branch, make a PR once finished, and merge your PR. 
 
 - [X] Implement the retrieve method.
-  - Create an issue for this in your repo, write your code on a branch, make a PR once finished, and merge your PR.
 
 ## Requirements:
 

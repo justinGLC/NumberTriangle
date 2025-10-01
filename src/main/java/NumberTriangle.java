@@ -100,6 +100,7 @@ public class NumberTriangle {
         }
     }
 
+
     /**
      * Read in the NumberTriangle structure from a file.
      * <p>
@@ -124,7 +125,7 @@ public class NumberTriangle {
         NumberTriangle top = null;
 
         String line;
-        while ((line = br.readLine()) != null) {  // <-- read next line each iteration
+        while ((line = br.readLine()) != null) {
             line = line.trim();
             if (line.isEmpty()) continue;
 
