@@ -100,6 +100,7 @@ public class NumberTriangle {
         }
     }
 
+
     /**
      * Read in the NumberTriangle structure from a file.
      * <p>
